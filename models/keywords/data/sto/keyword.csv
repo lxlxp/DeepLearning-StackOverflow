@@ -1,0 +1,7 @@
+label	keyword	Selected Keywords
+0	concept,basic,understand,model,function,compare,advantage,disadvantage,use,network
+1	install,error,environment,setup,GPU,version,driver,issue,problem,require
+2	data,dataset,preprocess,load,save,collect,object,split,add,clean
+3	model,setup,framework,library,choose,select,parameter,implementation,size,number
+4	train,test,tune,error,optimization,lost,accuracy,dimension,array,pytorch
+5	evaluate,predict,metric,save,plot,visualization,chart,terminal,output,show

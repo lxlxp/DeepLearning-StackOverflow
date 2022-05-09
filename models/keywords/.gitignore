@@ -1,0 +1,6 @@
+*.pyc
+.idea/*
+logs/*
+data.zip
+.git/*
+**/.DS_Store
